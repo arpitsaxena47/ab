@@ -40,3 +40,9 @@
 button {
   font-size: calc(10px + 2vmin);
 }
+
+.docs {
+  margin: auto;
+  margin-top: 20px;
+  padding: 14px 40px;
+}
